@@ -1,0 +1,6 @@
+
+<span style="cursor:X'></span>
+
+这里选择cursor（文本）作为对象，还可以自己改为其他的，如link等。
+
+x可以等于=hand（手形）、crosshair（十字）、text（文本光标）、wait（顾名思义啦）、default（默认效果）、help（问号）、e-resize（向右箭头）、ne-resize（向右上的箭头）、nw-resize（向左上的箭头）、w-resize（向左的箭头）、sw-resize（左下箭头）、s-resize（向下箭头）、se-resize（向右下箭头）、auto（系统自动给出效果）
